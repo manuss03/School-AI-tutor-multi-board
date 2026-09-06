@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 // When deploying to GitHub Pages, the site is served from /<repo-name>/
 // This base path ensures assets load correctly. For local dev it falls back to '/'.
-const base = process.env.GITHUB_PAGES ? '/ai-tutor/' : '/';
+const base = process.env.GITHUB_PAGES ? '/School-AI-tutor-multi-board/' : '/';
 
 // https://vitejs.dev/config/
 export default defineConfig({
