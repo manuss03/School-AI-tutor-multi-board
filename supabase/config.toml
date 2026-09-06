@@ -1,0 +1,2 @@
+[functions.ai-tutor-chat]
+verify_jwt = false
